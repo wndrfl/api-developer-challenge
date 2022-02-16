@@ -8,7 +8,7 @@ The purpose of this challenge is to gauge an engineer's ability to interpret and
 
 ## The Rules
 - There is no time limit. You are done when you are satisfied - but the client is eager.
-- You can use any resource or library that you think is *best for the product*. However, you must be able to justify and attribute any external resource.
+- You can use any resource or library that you think is *best for the product*, but we do request that the languages be selected from Javascript, Python, or PHP for the sake of this challenge. You must be able to justify and attribute any external resource.
 - We are great resources! Ask as many questions of the Wonderful team as you would throughout any project. We have been working with this client for many years and can provide feedback or validate any assumptions.
 
 ## You will be graded on:
