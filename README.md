@@ -1,5 +1,5 @@
-# The Wonderful Backend Developer Challenge
-The purpose of this challenge is to gauge a backend engineer's ability to interpret and implement the provided project specifications. In this document, you are presented with a scenario that is intended to help showcase your engineering talents and spark creative thinking and problem solving. We will be watching both the journey and the final product.
+# The Wonderful Business Logic + API Developer Challenge
+The purpose of this challenge is to gauge an engineer's ability to interpret and implement the provided project specifications. In this document, you are presented with a scenario that is intended to help showcase your engineering talents and spark creative thinking and problem solving. We will be watching both the journey and the final product.
 
 ## Expected Delivery
 - A public API to view your execution
